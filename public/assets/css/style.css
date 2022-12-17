@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Ek Mukta';
+    src: url("/public/assets/fonts/EkMuktaRegular-mOlv.ttf") format('ttf');
+}
+body{
+    font-family: "Ek Mukta", sans-serif;
+}
+
+
